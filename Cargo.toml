@@ -18,7 +18,7 @@ bold = []
 fill = []
 
 [dev-dependencies]
-eframe = "0.28"
+eframe = {git = "https://github.com/emilk/egui"}
 
 [[example]]
 name = "multiple_variants"
